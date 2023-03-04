@@ -1,0 +1,19 @@
+{
+  "name": "new-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerint619/new-stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerint619/new-stack/issues"
+  },
+  "homepage": "https://github.com/jerint619/new-stack#readme",
+  "description": ""
+}
